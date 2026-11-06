@@ -1,2 +1,2 @@
 # ascent
-Szpont
+For Introduction to Programming project class
